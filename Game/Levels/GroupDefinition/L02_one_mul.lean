@@ -7,7 +7,7 @@ Level 2
 Title "Multiplicative identity on the left"
 
 Introduction "
-In the previous level, we saw that $a * 1 = a$ for every $a$ in a group $G$. In this level, we
+Hello. This is level 2. In the previous level, we saw that $a * 1 = a$ for every $a$ in a group $G$. In this level, we
 introduce the property that $1 * a = a$, for every $a$ in $G$.
 "
 
